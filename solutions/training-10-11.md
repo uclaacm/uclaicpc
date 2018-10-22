@@ -1,3 +1,0 @@
-# Training Session II 
-
-

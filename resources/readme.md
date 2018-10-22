@@ -1,4 +1,4 @@
-##Tutorials:
+## Tutorials:
 - E-Maxx (English), a very detailed compilation of algorithms w/ implementation
 https://cp-algorithms.com/
 - Stanford's CS 97SI course, good for beginnerss
@@ -8,12 +8,12 @@ https://www.topcoder.com/community/competitive-programming/tutorials/
 - The Competitive Programming Book
 https://cpbook.net
 
-##Blogs:
+## Blogs:
 - Codeforces blogs (just google Codeforces + keyword)
 - https://petr-mitrichev.blogspot.com/
 
 
-##Code and Template:
+## Code and Template:
 - Again, E-Maxx (English) 
 https://cp-algorithms.com/
 - Stanford's ICPC team notebook
